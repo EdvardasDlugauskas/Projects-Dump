@@ -1,0 +1,20 @@
++ Straightener function:
++ Make graph draw at given point + center
++ Fix merge() changing smaller chain (!?)
+++* Make a program to create coordinates from drawing
++* Finish chain class
+* Make breastplate graph center-able
+
+*** Start creating different item classes with parts
+	* Create hilted weapon class
+		* other weapon classes (bow?)
+		+ Finish graph function
+	* Create armor classes
+		* Helmet class 
+			? Has eye sockets, needs to determine if it needs them
+			? Needs constant points
+		* Breastplate class
+			? Body's first 2,3 and -1, -2 points are for shoulders (shared?)
+			- Arm and Body merged separately
+		* Leggings class
+			- Centered

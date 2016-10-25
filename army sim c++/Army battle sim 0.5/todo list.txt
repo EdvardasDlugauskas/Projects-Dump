@@ -1,0 +1,13 @@
+Rewrite some class Unit functions
+	+ Add archer ranged attack
+	+ Rewrite unitMove() to better suit all unit ranges
+	+ Add randomness to attacks (RNG)
+	+ More...
+
+Improve army placement
+	+ Add randomness to barbaric placement
+	+ Add disciplined placement
+	
+Improve pathfinding (eventually...)
+	+ Barbaric units attack without orders
+	+ More discipline = less attack without orders range (down to 2-3)

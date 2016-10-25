@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1426864624 source:c:\users\edvard\desktop\c++\rpg\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1426870091 c:\users\edvard\desktop\c++\rpg\include\player.h
+
+1426867932 c:\users\edvard\desktop\c++\rpg\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1426868746 c:\users\edvard\desktop\c++\rpg\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+
+1426869270 source:c:\users\edvard\desktop\c++\rpg\src\engine.cpp
+	"Engine.h"
+
+1426869498 source:c:\users\edvard\desktop\c++\rpg\src\level.cpp
+	"Level.h"
+	<fstream>
+
+1426869988 source:c:\users\edvard\desktop\c++\rpg\src\player.cpp
+	"Player.h"
+
+1426872870 source:c:\users\edvard\desktop\c++\rpg 0.1\src\engine.cpp
+	"Engine.h"
+
+1426871532 c:\users\edvard\desktop\c++\rpg 0.1\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1426872346 c:\users\edvard\desktop\c++\rpg 0.1\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+
+1426873691 c:\users\edvard\desktop\c++\rpg 0.1\include\player.h
+
+1426873588 source:c:\users\edvard\desktop\c++\rpg 0.1\src\player.cpp
+	"Player.h"
+
+1426875527 source:c:\users\edvard\desktop\c++\rpg 0.1\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1426877190 source:c:\users\edvard\desktop\c++\rpg 0.1\src\level.cpp
+	"Level.h"
+	<fstream>
+

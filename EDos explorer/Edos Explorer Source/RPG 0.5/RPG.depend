@@ -1,0 +1,255 @@
+# depslib dependency file v1.0
+1426864624 source:c:\users\edvard\desktop\c++\rpg\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1426870091 c:\users\edvard\desktop\c++\rpg\include\player.h
+
+1426867932 c:\users\edvard\desktop\c++\rpg\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1426868746 c:\users\edvard\desktop\c++\rpg\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+
+1426869270 source:c:\users\edvard\desktop\c++\rpg\src\engine.cpp
+	"Engine.h"
+
+1426869498 source:c:\users\edvard\desktop\c++\rpg\src\level.cpp
+	"Level.h"
+	<fstream>
+
+1426869988 source:c:\users\edvard\desktop\c++\rpg\src\player.cpp
+	"Player.h"
+
+1426879787 source:c:\users\edvard\desktop\c++\rpg 0.2\src\engine.cpp
+	"Engine.h"
+
+1426876254 c:\users\edvard\desktop\c++\rpg 0.2\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1430588088 c:\users\edvard\desktop\c++\rpg 0.2\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1430588088 c:\users\edvard\desktop\c++\rpg 0.2\include\player.h
+
+1426873588 source:c:\users\edvard\desktop\c++\rpg 0.2\src\player.cpp
+	"Player.h"
+
+1426876288 source:c:\users\edvard\desktop\c++\rpg 0.2\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1428755137 source:c:\users\edvard\desktop\c++\rpg 0.2\src\level.cpp
+	"Level.h"
+
+1426876288 source:c:\users\edvard\desktop\c++\rpg 0.2 original\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1430588088 c:\users\edvard\desktop\c++\rpg 0.2 original\include\player.h
+
+1426876254 c:\users\edvard\desktop\c++\rpg 0.2 original\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1430588948 c:\users\edvard\desktop\c++\rpg 0.2 original\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1426879787 source:c:\users\edvard\desktop\c++\rpg 0.2 original\src\engine.cpp
+	"Engine.h"
+
+1426873588 source:c:\users\edvard\desktop\c++\rpg 0.2 original\src\player.cpp
+	"Player.h"
+
+1430935486 source:c:\users\edvard\desktop\c++\rpg 0.2 original\src\level.cpp
+	"Level.h"
+
+1426876288 source:c:\users\edvard\desktop\c++\rpg 0.3\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1431533180 c:\users\edvard\desktop\c++\rpg 0.3\include\player.h
+
+1426876254 c:\users\edvard\desktop\c++\rpg 0.3\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1431533180 c:\users\edvard\desktop\c++\rpg 0.3\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1431533187 source:c:\users\edvard\desktop\c++\rpg 0.3\src\engine.cpp
+	"Engine.h"
+
+1431533198 source:c:\users\edvard\desktop\c++\rpg 0.3\src\player.cpp
+	"Player.h"
+
+1431533180 source:c:\users\edvard\desktop\c++\rpg 0.3\src\level.cpp
+	"Level.h"
+
+1426872688 source:\\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1431533180 \\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\include\player.h
+
+1426872654 \\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1432209981 \\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1431533187 source:\\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\src\engine.cpp
+	"Engine.h"
+
+1431533198 source:\\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\src\player.cpp
+	"Player.h"
+
+1426872688 source:\\pc_43_1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1431533180 \\pc_43_1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\include\player.h
+
+1426872654 \\pc_43_1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1431533180 \\pc_43_1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1431533187 source:\\pc_43_1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\src\engine.cpp
+	"Engine.h"
+
+1431533198 source:\\pc_43_1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\src\player.cpp
+	"Player.h"
+
+1432210529 source:\\172.16.217.1\mok_dokumentai\10 klase\2014-2015\10b\dlugosh\rpg 0.3\src\level.cpp
+	"Level.h"
+
+1426872688 source:c:\users\edvard\desktop\c++\rpg 0.4\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1432670467 c:\users\edvard\desktop\c++\rpg 0.4\include\player.h
+
+1426872654 c:\users\edvard\desktop\c++\rpg 0.4\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1432209981 c:\users\edvard\desktop\c++\rpg 0.4\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1431533187 source:c:\users\edvard\desktop\c++\rpg 0.4\src\engine.cpp
+	"Engine.h"
+
+1432672314 source:c:\users\edvard\desktop\c++\rpg 0.4\src\player.cpp
+	"Player.h"
+
+1433098413 source:c:\users\edvard\desktop\c++\rpg 0.4\src\level.cpp
+	"Level.h"
+
+1426872688 source:c:\users\edvard\desktop\c++\rpg 0.5\main.cpp
+	<iostream>
+	"Player.h"
+	"Engine.h"
+
+1432670467 c:\users\edvard\desktop\c++\rpg 0.5\include\player.h
+
+1426872654 c:\users\edvard\desktop\c++\rpg 0.5\include\engine.h
+	"Level.h"
+	"Player.h"
+	<string>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1433841971 c:\users\edvard\desktop\c++\rpg 0.5\include\level.h
+	"Player.h"
+	<stdlib.h>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1431533187 source:c:\users\edvard\desktop\c++\rpg 0.5\src\engine.cpp
+	"Engine.h"
+
+1433098492 source:c:\users\edvard\desktop\c++\rpg 0.5\src\player.cpp
+	"Player.h"
+
+1433841971 source:c:\users\edvard\desktop\c++\rpg 0.5\src\level.cpp
+	"Level.h"
+

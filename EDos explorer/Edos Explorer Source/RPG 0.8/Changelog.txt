@@ -1,0 +1,26 @@
+0.7 :
+* More performance improvements - new tile updating system.
+* Added sounds!
+* Added an intro scene
+* Console window changes dynamically according to labyrinth size *EXPERIMENTAL*
+* Added a "Box" class to render nice looking boxes of certain width, height and location.
+
+0.6 :
+* Now with fully functional automatic coloring system!
+
+0.5 : 
+* Decreased loading times and flashing when refreshing (making a move) 
+
+0.4 :
+* Added ability to unlock doors if you have collected all the money ('$') in the level. If you haven't, it will tell you so.
+* Doors now correctly function when going from level to level. No need to add '@' to every level.
+* Removed "rooms" for now.
+
+0.3 : 
+* Added teleporters ('Q'). Teleport to the other teleporter and move the player in following directions(by availability) right, left, up, down.
+
+0.2 : 
+* Added rooms in levels. Up to 3 per level. Some bugs if you want to go from a room to the next level.
+
+0.1 :
+* First stable release. Ability to change levels.

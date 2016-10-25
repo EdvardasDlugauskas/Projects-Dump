@@ -1,0 +1,5 @@
+fix TABs making the program act weird    // not soon :\
+add all the needed files in the resource to include everything in .exe
+
+Add more functionality.... ?
+* Army management game. Battles happen automatically?

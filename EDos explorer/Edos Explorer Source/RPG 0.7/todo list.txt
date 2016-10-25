@@ -1,0 +1,3 @@
+fix TABs making the program act weird    // not soon :\
+add all the needed files in the resource to include everything in .exe
+fix crash on 2nd level (maybe window size changer? or teleporter?)

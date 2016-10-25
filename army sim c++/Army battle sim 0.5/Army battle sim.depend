@@ -1,0 +1,542 @@
+# depslib dependency file v1.0
+1438944263 source:c:\users\edvard\desktop\c++\army battle sim\main.cpp
+	<iostream>
+	<vector>
+	"Map2D.h"
+	"Army.h"
+	"Colors.h"
+
+1439457755 c:\users\edvard\desktop\c++\army battle sim\include\map2d.h
+	"Army.h"
+	"Unit.h"
+	"Colors.h"
+	"Random.h"
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1438945582 c:\users\edvard\desktop\c++\army battle sim\include\army.h
+	<vector>
+	<string>
+	<algorithm>
+	"Unit.h"
+	"Swordsman.h"
+	"Archer.h"
+	"King.h"
+
+1435077733 c:\users\edvard\desktop\c++\army battle sim\include\fighting.h
+	<iostream>
+	"Map2D.h"
+
+1438945815 source:c:\users\edvard\desktop\c++\army battle sim\src\army.cpp
+	"Army.h"
+
+1435080959 source:c:\users\edvard\desktop\c++\army battle sim\src\fighting.cpp
+	"Fighting.h"
+
+1438947044 source:c:\users\edvard\desktop\c++\army battle sim\src\map2d.cpp
+	"Map2D.h"
+
+1439287130 c:\users\edvard\desktop\c++\army battle sim\include\unit.h
+	<windows.h>
+
+1435170249 source:c:\users\edvard\desktop\c++\army battle sim\src\archer.cpp
+	"Archer.h"
+
+1435155843 c:\users\edvard\desktop\c++\army battle sim\include\archer.h
+	<Unit.h>
+
+1435155693 c:\users\edvard\desktop\c++\army battle sim\include\swordsman.h
+	<Unit.h>
+
+1435239891 source:c:\users\edvard\desktop\c++\army battle sim\src\swordsman.cpp
+	"Swordsman.h"
+
+1438945815 source:c:\users\edvard\desktop\c++\army battle sim\src\unit.cpp
+	"Unit.h"
+
+1435242132 c:\users\edvard\desktop\c++\army battle sim\include\king.h
+	<string>
+	<Unit.h>
+
+1435246159 source:c:\users\edvard\desktop\c++\army battle sim\src\king.cpp
+	"King.h"
+
+1438945815 c:\users\edvard\desktop\c++\army battle sim\include\colors.h
+	<windows.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdexcept>
+
+1438946832 source:c:\users\edvard\desktop\c++\army battle sim\src\colors.cpp
+	"Colors.h"
+
+1438886560 source:c:\users\edvard\desktop\c++\army battle sim\src\random.cpp
+	"Random.h"
+
+1438886560 c:\users\edvard\desktop\c++\army battle sim\include\random.h
+	<chrono>
+	<random>
+	<windows.h>
+
+1440093002 source:c:\users\edvard\desktop\c++\army battle sim 0.2\main.cpp
+	<iostream>
+	<vector>
+	"Map2D.h"
+	"Army.h"
+	"Colors.h"
+	"Path.h"
+	"Unit.h"
+
+1440088994 c:\users\edvard\desktop\c++\army battle sim 0.2\include\map2d.h
+	"Colors.h"
+	"Random.h"
+	"Unit.h"
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1439825849 c:\users\edvard\desktop\c++\army battle sim 0.2\include\army.h
+	<vector>
+	<string>
+	<algorithm>
+	"Unit.h"
+	"Swordsman.h"
+	"Archer.h"
+	"King.h"
+
+1440092627 c:\users\edvard\desktop\c++\army battle sim 0.2\include\unit.h
+	<vector>
+	<windows.h>
+
+1439461148 c:\users\edvard\desktop\c++\army battle sim 0.2\include\swordsman.h
+	<Unit.h>
+
+1439461124 c:\users\edvard\desktop\c++\army battle sim 0.2\include\archer.h
+	<Unit.h>
+
+1439461197 c:\users\edvard\desktop\c++\army battle sim 0.2\include\king.h
+	<string>
+	<Unit.h>
+
+1440089517 c:\users\edvard\desktop\c++\army battle sim 0.2\include\colors.h
+	<windows.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdexcept>
+	"Unit.h"
+
+1438886560 c:\users\edvard\desktop\c++\army battle sim 0.2\include\random.h
+	<chrono>
+	<random>
+	<windows.h>
+
+1439461125 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\archer.cpp
+	"Archer.h"
+
+1440091085 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\army.cpp
+	"Army.h"
+	"Map2D.h"
+
+1440091998 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\colors.cpp
+	"Colors.h"
+
+1439461186 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\king.cpp
+	"King.h"
+
+1438886560 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\random.cpp
+	"Random.h"
+
+1440091883 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\swordsman.cpp
+	"Swordsman.h"
+
+1440092735 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\unit.cpp
+	"Unit.h"
+	"Army.h"
+	"Map2D.h"
+	"Path.h"
+
+1440092271 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\map2d.cpp
+	"Map2D.h"
+	"Army.h"
+
+1440087945 c:\users\edvard\desktop\c++\army battle sim 0.2\include\path.h
+	<vector>
+	<math.h>
+	<iostream>
+	<windows.h>
+	"Map2D.h"
+	"Unit.h"
+	"Army.h"
+
+1440093258 source:c:\users\edvard\desktop\c++\army battle sim 0.2\src\path.cpp
+	"Path.h"
+
+1440360361 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\archer.cpp
+	"Archer.h"
+	"Army.h"
+
+1440359722 c:\users\edvard\desktop\c++\army battle sim 0.3\include\archer.h
+	<Unit.h>
+	<Map2D.h>
+	<Path.h>
+	<Army.h>
+
+1440360361 c:\users\edvard\desktop\c++\army battle sim 0.3\include\unit.h
+	<vector>
+	<windows.h>
+	<memory>
+
+1440359722 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\army.cpp
+	"Army.h"
+	"Map2D.h"
+
+1439825849 c:\users\edvard\desktop\c++\army battle sim 0.3\include\army.h
+	<vector>
+	<string>
+	<algorithm>
+	"Unit.h"
+	"Swordsman.h"
+	"Archer.h"
+	"King.h"
+
+1440359722 c:\users\edvard\desktop\c++\army battle sim 0.3\include\swordsman.h
+	<Unit.h>
+
+1440359722 c:\users\edvard\desktop\c++\army battle sim 0.3\include\king.h
+	<string>
+	<Unit.h>
+
+1440169778 c:\users\edvard\desktop\c++\army battle sim 0.3\include\map2d.h
+	"Colors.h"
+	"Random.h"
+	"Unit.h"
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1440361842 c:\users\edvard\desktop\c++\army battle sim 0.3\include\colors.h
+	<windows.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdexcept>
+	<random>
+	"Unit.h"
+
+1438886560 c:\users\edvard\desktop\c++\army battle sim 0.3\include\random.h
+	<chrono>
+	<random>
+	<windows.h>
+
+1440361317 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\colors.cpp
+	"Colors.h"
+
+1440360505 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\king.cpp
+	"King.h"
+	"Army.h"
+
+1440169777 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\map2d.cpp
+	"Map2D.h"
+	"Army.h"
+
+1440093258 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\path.cpp
+	"Path.h"
+
+1440087945 c:\users\edvard\desktop\c++\army battle sim 0.3\include\path.h
+	<vector>
+	<math.h>
+	<iostream>
+	<windows.h>
+	"Map2D.h"
+	"Unit.h"
+	"Army.h"
+
+1438886560 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\random.cpp
+	"Random.h"
+
+1440360458 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\swordsman.cpp
+	"Swordsman.h"
+	"Army.h"
+
+1440361103 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\unit.cpp
+	"Unit.h"
+	"Army.h"
+	"Map2D.h"
+	"Path.h"
+
+1440163849 source:c:\users\edvard\desktop\c++\army battle sim 0.3\main.cpp
+	<iostream>
+	<vector>
+	<GameLoop.h>
+
+1440169303 c:\users\edvard\desktop\c++\army battle sim 0.3\include\gameloop.h
+	<vector>
+	<memory>
+	"Map2D.h"
+	"Army.h"
+	"Colors.h"
+	"Path.h"
+	"Unit.h"
+
+1440237796 source:c:\users\edvard\desktop\c++\army battle sim 0.3\src\gameloop.cpp
+	"GameLoop.h"
+
+1440522968 source:c:\users\edvard\desktop\c++\army battle sim 0.4\main.cpp
+	<iostream>
+	<vector>
+	<GameLoop.h>
+
+1440424569 c:\users\edvard\desktop\c++\army battle sim 0.4\include\gameloop.h
+	<vector>
+	<memory>
+	<thread>
+	"Map2D.h"
+	"Army.h"
+	"Colors.h"
+	"Path.h"
+	"Unit.h"
+
+1440582866 c:\users\edvard\desktop\c++\army battle sim 0.4\include\map2d.h
+	"Colors.h"
+	"Random.h"
+	"Unit.h"
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1440423465 c:\users\edvard\desktop\c++\army battle sim 0.4\include\colors.h
+	<windows.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdexcept>
+	<random>
+	"Unit.h"
+
+1440666963 c:\users\edvard\desktop\c++\army battle sim 0.4\include\unit.h
+	<vector>
+	<windows.h>
+	<memory>
+
+1438886560 c:\users\edvard\desktop\c++\army battle sim 0.4\include\random.h
+	<chrono>
+	<random>
+	<windows.h>
+
+1440605428 c:\users\edvard\desktop\c++\army battle sim 0.4\include\army.h
+	<vector>
+	<string>
+	<algorithm>
+	"Unit.h"
+	"Swordsman.h"
+	"Archer.h"
+	"King.h"
+	"Horseman.h"
+
+1440359722 c:\users\edvard\desktop\c++\army battle sim 0.4\include\swordsman.h
+	<Unit.h>
+
+1440523128 c:\users\edvard\desktop\c++\army battle sim 0.4\include\archer.h
+	<Unit.h>
+	<Map2D.h>
+	<Path.h>
+	<Army.h>
+
+1440664620 c:\users\edvard\desktop\c++\army battle sim 0.4\include\path.h
+	<vector>
+	<math.h>
+	<iostream>
+	<windows.h>
+	"Map2D.h"
+	"Unit.h"
+	"Army.h"
+
+1440664751 c:\users\edvard\desktop\c++\army battle sim 0.4\include\king.h
+	<string>
+	<Unit.h>
+
+1440663573 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\archer.cpp
+	"Archer.h"
+	"Army.h"
+
+1440697119 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\army.cpp
+	"Army.h"
+	"Map2D.h"
+
+1440668446 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\gameloop.cpp
+	"GameLoop.h"
+	<conio.h>
+
+1440666982 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\king.cpp
+	"King.h"
+	"Army.h"
+
+1440663789 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\map2d.cpp
+	"Map2D.h"
+	"Army.h"
+	<algorithm>
+
+1440665341 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\path.cpp
+	"Path.h"
+
+1438886560 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\random.cpp
+	"Random.h"
+
+1440360458 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\swordsman.cpp
+	"Swordsman.h"
+	"Army.h"
+
+1440667013 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\unit.cpp
+	"Unit.h"
+	"Army.h"
+	"Map2D.h"
+	"Path.h"
+
+1440662731 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\colors.cpp
+	"Colors.h"
+
+1440603437 c:\users\edvard\desktop\c++\army battle sim 0.4\include\horseman.h
+	<Unit.h>
+	<Army.h>
+
+1440603437 source:c:\users\edvard\desktop\c++\army battle sim 0.4\src\horseman.cpp
+	"Horseman.h"
+
+1440519368 source:c:\users\edvard\desktop\c++\army battle sim 0.5\main.cpp
+	<iostream>
+	<vector>
+	<GameLoop.h>
+
+1441285456 c:\users\edvard\desktop\c++\army battle sim 0.5\include\gameloop.h
+	<vector>
+	<memory>
+	<thread>
+	"Map2D.h"
+	"Army.h"
+	"Colors.h"
+	"Path.h"
+	"Unit.h"
+
+1440579266 c:\users\edvard\desktop\c++\army battle sim 0.5\include\map2d.h
+	"Colors.h"
+	"Random.h"
+	"Unit.h"
+	<string>
+	<windows.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1440419865 c:\users\edvard\desktop\c++\army battle sim 0.5\include\colors.h
+	<windows.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdexcept>
+	<random>
+	"Unit.h"
+
+1441284078 c:\users\edvard\desktop\c++\army battle sim 0.5\include\unit.h
+	<vector>
+	<windows.h>
+	<memory>
+
+1438882960 c:\users\edvard\desktop\c++\army battle sim 0.5\include\random.h
+	<chrono>
+	<random>
+	<windows.h>
+
+1440601828 c:\users\edvard\desktop\c++\army battle sim 0.5\include\army.h
+	<vector>
+	<string>
+	<algorithm>
+	"Unit.h"
+	"Swordsman.h"
+	"Archer.h"
+	"King.h"
+	"Horseman.h"
+
+1440356122 c:\users\edvard\desktop\c++\army battle sim 0.5\include\swordsman.h
+	<Unit.h>
+
+1440519528 c:\users\edvard\desktop\c++\army battle sim 0.5\include\archer.h
+	<Unit.h>
+	<Map2D.h>
+	<Path.h>
+	<Army.h>
+
+1440661020 c:\users\edvard\desktop\c++\army battle sim 0.5\include\path.h
+	<vector>
+	<math.h>
+	<iostream>
+	<windows.h>
+	"Map2D.h"
+	"Unit.h"
+	"Army.h"
+
+1440661151 c:\users\edvard\desktop\c++\army battle sim 0.5\include\king.h
+	<string>
+	<Unit.h>
+
+1440599837 c:\users\edvard\desktop\c++\army battle sim 0.5\include\horseman.h
+	<Unit.h>
+	<Army.h>
+
+1440659973 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\archer.cpp
+	"Archer.h"
+	"Army.h"
+
+1441285737 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\army.cpp
+	"Army.h"
+	"Map2D.h"
+	"GameLoop.h"
+
+1440659131 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\colors.cpp
+	"Colors.h"
+
+1440599837 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\horseman.cpp
+	"Horseman.h"
+
+1440663382 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\king.cpp
+	"King.h"
+	"Army.h"
+
+1440660189 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\map2d.cpp
+	"Map2D.h"
+	"Army.h"
+	<algorithm>
+
+1440661741 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\path.cpp
+	"Path.h"
+
+1440356858 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\swordsman.cpp
+	"Swordsman.h"
+	"Army.h"
+
+1441285737 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\unit.cpp
+	"Unit.h"
+	"Army.h"
+	"Map2D.h"
+	"Path.h"
+	"GameLoop.h"
+
+1441285515 source:c:\users\edvard\desktop\c++\army battle sim 0.5\src\gameloop.cpp
+	"GameLoop.h"
+	<conio.h>
+

@@ -1,0 +1,20 @@
+v0.4
+	*Rewrote some class Unit functions
+	+ Add archer ranged attack
+	+ Rewrite unitMove() to better suit all unit ranges
+	+ Add randomness to attacks (RNG)
+	+ More...
+
+	*Improved army placement
+	+ Add randomness to barbaric placement
+	+ Add disciplined placement
+	
+	*Improved pathfinding
+	+ Barbaric units attack without orders
+	+ More discipline = less attack without orders range (down to 2-3)
+
+
+v0.3
+	* Added pathfinding
+	* Units now attack and die
+	* The winner is announced at the end

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Army battle sim" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Army battle sim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Army battle sim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Archer.h" />
+		<Unit filename="include/Army.h" />
+		<Unit filename="include/Colors.h" />
+		<Unit filename="include/Fighting.h" />
+		<Unit filename="include/GameLoop.h" />
+		<Unit filename="include/Horseman.h" />
+		<Unit filename="include/King.h" />
+		<Unit filename="include/Map2D.h" />
+		<Unit filename="include/Path.h" />
+		<Unit filename="include/Swordsman.h" />
+		<Unit filename="include/Unit.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Archer.cpp" />
+		<Unit filename="src/Army.cpp" />
+		<Unit filename="src/Colors.cpp" />
+		<Unit filename="src/GameLoop.cpp" />
+		<Unit filename="src/Horseman.cpp" />
+		<Unit filename="src/King.cpp" />
+		<Unit filename="src/Map2D.cpp" />
+		<Unit filename="src/Path.cpp" />
+		<Unit filename="src/Swordsman.cpp" />
+		<Unit filename="src/Unit.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

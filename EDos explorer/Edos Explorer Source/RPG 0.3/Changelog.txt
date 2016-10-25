@@ -1,0 +1,6 @@
+
+0.3 : 
+*Added teleporters ('Q'). Teleport to the other teleporter and move the player in following directions(by availability) right, left, up, down.
+
+0.2 : 
+*Added rooms in levels. Up to 3 per level. Some bugs if you want to go from a room to the next level.

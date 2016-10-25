@@ -1,0 +1,2 @@
+Add random to apple for random images
+Add smart snake blocks

@@ -1,0 +1,5 @@
++ Add 45 degree SHIFT support
++ Add text instructions
++ Before outputting, round floats
+?- Add mirror from func
+* Delete duplicates before outputting the coords

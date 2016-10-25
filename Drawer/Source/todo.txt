@@ -1,0 +1,3 @@
++ Add 45 degree SHIFT support
++ Add text instructions
+?- Add mirror from func
